@@ -1,0 +1,21 @@
+body
+{
+   background-position: center;
+   background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    font-size: 25px;
+    color: white;
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    background-color: #ff9030;
+}
