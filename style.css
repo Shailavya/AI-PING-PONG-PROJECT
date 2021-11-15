@@ -19,3 +19,14 @@ body
     float: right;
     background-color: #ff9030;
 }
+
+.footer {
+
+    position: fixed;
+    background-color: lightgray;
+    width: 100%;
+    margin-bottom: 0px;
+    bottom: 0px;
+
+}
+
